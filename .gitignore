@@ -1,0 +1,14 @@
+build/
+target/
+
+.idea/*
+!.idea/runConfigurations/
+!.idea/runConfigurations/*
+!**/Terminheld_e2e_Test.xml
+
+node_modules
+package-lock.json
+.npm
+*.d.ts
+debug.log
+plugins.js
